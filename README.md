@@ -4,7 +4,8 @@
 Arabic Numerals Identifications 
 
 Using Neural Networks
-![Alt text](./picture1.png?raw=true "Title")
+![Alt text](./picture1.png)
+
 **By:** 
 
 **Mohamed Adel Iraqi Bakery**	
