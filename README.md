@@ -1,9 +1,7 @@
 ﻿
 
 
-Arabic Numerals Identifications 
-
-Using Neural Networks
+# Arabic Numerals Identification using Neural Networks
 
 ![Mars](Picture1.png)
 
