@@ -90,6 +90,7 @@ A neural network is a computational model inspired by the structure and function
 Neural networks can be applied to various tasks, including image and speech recognition, natural language processing, and decision-making. They excel in tasks where traditional rule-based programming may be challenging or impractical due to the complexity and variability of the input data. Deep learning, a subset of machine learning, leverages neural networks with multiple hidden layers, often referred to as deep neural networks. Deep learning has achieved remarkable success in various domains, leading to breakthroughs in areas such as computer vision, speech recognition, and natural language understanding.
 
 In summary, neural networks are powerful computational models that mimic the structure and function of the human brain, enabling machines to learn and make decisions from data. Their versatility and ability to adapt to complex patterns make them a fundamental technology in the field of artificial intelligence.
+![Picture2](https://github.com/MohamedIraqi/Arabic_Numerals_Identifications/assets/59147217/97452e7a-adab-448e-b30d-c64ca939a98c)
 
 <a name="_toc155135206"></a><a name="_toc155147693"></a>**Figure 1: Neural Network Diagram**
 # <a name="_toc155135196"></a><a name="_toc155290211"></a>Project Description:
