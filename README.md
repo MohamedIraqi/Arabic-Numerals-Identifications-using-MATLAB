@@ -94,6 +94,7 @@ In summary, neural networks are powerful computational models that mimic the str
 # <a name="_toc155135196"></a><a name="_toc155290211"></a>Project Description:
 To use Fuzzy Logic system to recognize Arabic numerals and build a GUI to demonstrate how our system works.
 
+![image](https://github.com/MohamedIraqi/Arabic_Numerals_Identifications/assets/59147217/a4098c0c-0820-4f5e-bebc-2465f1f5632e)
 <a name="_toc155135207"></a><a name="_toc155147694"></a>**Figure 2: Arabic Numbers**
 
 ` `We will use the toolbox of neural network which is built inside the MATLAB, and MATLAB GUI to implement our project.
@@ -107,6 +108,7 @@ To use Fuzzy Logic system to recognize Arabic numerals and build a GUI to demons
 
 \- Our variations are all 5\*7 matrix, so 35 input victors as following example:
 
+![image](https://github.com/MohamedIraqi/Arabic_Numerals_Identifications/assets/59147217/22e77fbe-5f6c-4cba-8272-f953d4767c93)
 <a name="_toc155135208"></a><a name="_toc155147695"></a>**Figure 3: 2 variations of our Dataset**
 ## <a name="_toc155135199"></a><a name="_toc155290214"></a>**Creating the Neural Network:**
 \- After getting the data sets as our input, we must build our neural network to train on those data sets.
@@ -117,19 +119,27 @@ To use Fuzzy Logic system to recognize Arabic numerals and build a GUI to demons
 
 \- We used maximum number of validation checks = 1000 to avoid over fitting as much as possible, and number of epochs = 100000. 
 
+![image](https://github.com/MohamedIraqi/Arabic_Numerals_Identifications/assets/59147217/eff5497d-452e-4ad1-adf9-81f6f5eb64e4)
+
 <a name="_toc155135209"></a><a name="_toc155147696"></a>**Figure 4: Layers of one network**
 
 In the previous network we used 2 layers (1 hidden layers), The hidden layer contains 65 neurons use SoftMax transfer functions, which is best for classification tasks, while the output layer is non-linear Symmetric sigmoid transfer function to get better accuracy.
 
 After the training of the 9 networks, we take a majority vote for the final output, we gave the network with the best output more than one vote to increase its weight in the votes.
 
+![image](https://github.com/MohamedIraqi/Arabic_Numerals_Identifications/assets/59147217/c2590d19-a009-430b-a90d-475057c8f5b0)
+
 <a name="_toc155135210"></a><a name="_toc155147697"></a>**Figure 5: Feed-Forward Neural Network**
 ## <a name="_toc155135200"></a><a name="_toc155290215"></a>**Output:**
+
+![image](https://github.com/MohamedIraqi/Arabic_Numerals_Identifications/assets/59147217/80610b7b-5e71-4eb2-b6dc-37d55253e8c3)
 
 <a name="_toc155135211"></a><a name="_toc155147698"></a>**Figure 6: Output of Our Neural Network**
 
 ## <a name="_toc155135201"></a><a name="_toc155290216"></a>**Building the GUI:**
 Our main reason of using a GUI, so that the user could enter the input easily and doesn’t have to enter the number bit by bit, so the user could simply click the boxes to get the number he wants, and the GUI will automatically output the number on the screen.
+
+![image](https://github.com/MohamedIraqi/Arabic_Numerals_Identifications/assets/59147217/7a95f6ef-ef86-4036-a251-3316d0a5e09b)
 
 <a name="_toc155135212"></a><a name="_toc155147699"></a>**Figure 7: GUI**
 
@@ -137,11 +147,17 @@ Our main reason of using a GUI, so that the user could enter the input easily an
 ## <a name="_toc155290217"></a>**Test Cases:**
 ### <a name="_toc155135203"></a><a name="_toc155290218"></a>**User Inputs 1:**
 
+![image](https://github.com/MohamedIraqi/Arabic_Numerals_Identifications/assets/59147217/f8e50c11-899c-4988-845f-b335a7bb603b)
+
 <a name="_toc155135213"></a><a name="_toc155147700"></a>**Figure 8: First Test Case**
 ### <a name="_toc155135204"></a><a name="_toc155290219"></a>**Users Inputs 8:**
 
+![image](https://github.com/MohamedIraqi/Arabic_Numerals_Identifications/assets/59147217/1473d8f6-18f1-4162-850f-b2fb87d227be)
+
 <a name="_toc155135214"></a><a name="_toc155147701"></a>**Figure 9: Second Test Case**
 ### <a name="_toc155135205"></a><a name="_toc155290220"></a>**User Inputs 8 with an error:**
+
+![image](https://github.com/MohamedIraqi/Arabic_Numerals_Identifications/assets/59147217/20c356d3-7caf-4ca4-9b86-3556f3a26fe2)
 
 <a name="_toc155135215"></a><a name="_toc155147702"></a>**Figure 10: Third Test Case**
 # <a name="_toc155290221"></a>Installation Guide
