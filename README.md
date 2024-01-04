@@ -109,6 +109,7 @@ To use Fuzzy Logic system to recognize Arabic numerals and build a GUI to demons
 \- Our variations are all 5\*7 matrix, so 35 input victors as following example:
 
 ![image](https://github.com/MohamedIraqi/Arabic_Numerals_Identifications/assets/59147217/22e77fbe-5f6c-4cba-8272-f953d4767c93)
+
 <a name="_toc155135208"></a><a name="_toc155147695"></a>**Figure 3: 2 variations of our Dataset**
 ## <a name="_toc155135199"></a><a name="_toc155290214"></a>**Creating the Neural Network:**
 \- After getting the data sets as our input, we must build our neural network to train on those data sets.
