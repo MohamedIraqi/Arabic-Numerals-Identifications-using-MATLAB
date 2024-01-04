@@ -4,7 +4,7 @@
 Arabic Numerals Identifications 
 
 Using Neural Networks
-![Alt text](./picture1.png)
+![ ](picture1.png)
 
 **By:** 
 
