@@ -2,7 +2,7 @@
 
 
 # Arabic Numerals Identification using Neural Networks
-
+on 5x7 grid
 ![Mars](Picture1.png)
 
 **By:** 
