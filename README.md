@@ -7,7 +7,7 @@ on 5x7 grid
 
 **By:** 
 
-**Mohamed Adel Iraqi Bakery**	
+**Mohamed Adel Iraqi**	
 
 <a name="_toc155135195"></a>
 # Contents
